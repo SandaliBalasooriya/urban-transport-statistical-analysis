@@ -30,13 +30,13 @@ Approximates passenger volume using the first four terms of a mixed trigonometri
 
 The notebook generates the following plots during execution:
 
-- `travel_time_analysis.png` — 3D surfaces and gradient field contour plots for both transport modes
-- `sensitivity_analysis.png` — comparative gradient magnitude bar chart
-- `fare_analysis.png` — fare comparison, marginal rates, and percentage premium over distance
-- `consumer_surplus.png` — economic surplus analysis for bus and taxi services
-- `problem3a_direct_interpretation.png` — valid region analysis for direct time interpretation
-- `problem3a_interpretation_comparison.png` — side-by-side comparison of both time interpretations
-- `problem3a_comprehensive_analysis.png` — full series analysis including rate of change and truncation error
+- `travel_time_analysis.png` - 3D surfaces and gradient field contour plots for both transport modes
+- `sensitivity_analysis.png` - comparative gradient magnitude bar chart
+- `fare_analysis.png` - fare comparison, marginal rates, and percentage premium over distance
+- `consumer_surplus.png` - economic surplus analysis for bus and taxi services
+- `problem3a_direct_interpretation.png` - valid region analysis for direct time interpretation
+- `problem3a_interpretation_comparison.png` - side-by-side comparison of both time interpretations
+- `problem3a_comprehensive_analysis.png` - full series analysis including rate of change and truncation error
 
 ## Author
 
